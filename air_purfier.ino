@@ -100,7 +100,7 @@ void setup() {
   
   display.setTextSize(1.4);
   display.setCursor(20, 20);
-  display.println("By Santhosh");
+  display.println("By Manojkumar");
   display.display();
   delay(3000);
   display.clearDisplay();    
